@@ -1,0 +1,24 @@
+2025-11-05 20:51:23 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 20:51:24 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 21:05:28 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 21:05:28 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 22:08:47 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 22:08:47 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 22:14:49 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 22:14:50 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 22:15:07 DEBUG RegistrationScripts:19 - Execution of doRegistration test script started
+2025-11-05 22:15:07 DEBUG RegistrationScripts:23 - clicked on my account tab
+2025-11-05 22:15:09 DEBUG RegistrationScripts:25 - clickOnRegisterLink
+2025-11-05 22:15:12 DEBUG RegistrationScripts:35 - Entered all the mandatory fields
+2025-11-05 22:18:15 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 22:18:17 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 22:18:28 DEBUG RegistrationScripts:19 - Execution of doRegistration test script started
+2025-11-05 22:18:28 DEBUG RegistrationScripts:23 - clicked on my account tab
+2025-11-05 22:18:29 DEBUG RegistrationScripts:25 - clickOnRegisterLink
+2025-11-05 22:18:33 DEBUG RegistrationScripts:35 - Entered all the mandatory fields
+2025-11-05 22:24:12 INFO  LoginScripts:16 - Starting login Test
+2025-11-05 22:24:13 DEBUG LoginScripts:20 - clicked on my account tab
+2025-11-05 22:24:25 DEBUG RegistrationScripts:20 - Execution of doRegistration test script started
+2025-11-05 22:24:26 DEBUG RegistrationScripts:24 - clicked on my account tab
+2025-11-05 22:24:27 DEBUG RegistrationScripts:26 - clickOnRegisterLink
+2025-11-05 22:24:30 DEBUG RegistrationScripts:36 - Entered all the mandatory fields

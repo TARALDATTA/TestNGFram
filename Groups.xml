@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <groups>
+        <run>
+            <include name="Smoke" />
+        </run>
+    </groups>
+    <test name="C:/Users/Mohan Dev/Downloads/OpencartV121/TestNgAutomation/src/test/java/testScripts">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="environment" value="Test"></parameter>
+
+        <classes>
+            <class name="testScripts.LoginDataDrivenTest" />
+            <class name="testScripts.LoginScripts" />
+            <class name="testScripts.RegistrationScripts"/>
+        </classes>
+    </test>
+</suite>

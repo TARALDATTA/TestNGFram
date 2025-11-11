@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"></listener>
+    </listeners>
+
+    <parameter name="browser" value="chrome"></parameter>
+    <parameter name="environment" value="Test"></parameter>
+
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Mohan Dev/Downloads/OpencartV121/TestNgAutomation/src/test/java/testScripts">
+        <classes>
+            <class name="testScripts.LoginScripts" />
+            <class name="testScripts.RegistrationScripts" />
+        </classes>
+    </test>
+</suite>
