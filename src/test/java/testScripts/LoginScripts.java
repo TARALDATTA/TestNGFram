@@ -32,15 +32,6 @@ public class LoginScripts extends BaseTest {
 
         Assert.assertTrue(isLoggedIn,"Not logged in please check credentails");
 
-//        Assert.assertTrue(false);
-//        System.out.println("This is hard assert");
-
-        SoftAssert soft = new SoftAssert();
-        soft.assertTrue(false);
-        System.out.println("This is soft assert");
-
-        soft.assertAll();
-
 
 
 
